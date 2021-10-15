@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>hellington888 &#8211; test thing</title>
-	<atom:link href="http://localhost/author/hellington888/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; test thing</title>
+	<atom:link href="http://localhost/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://harmonyellington.github.io/he_2021/</link>
 	<description>this is a test page on a test thing</description>
 	<lastBuildDate>Thu, 14 Oct 2021 22:20:41 +0000</lastBuildDate>
